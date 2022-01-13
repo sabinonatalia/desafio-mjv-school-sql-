@@ -43,7 +43,7 @@ O nosso desafio criar é uma jornada de instruções SQL contemplando comandos D
 - Para a apresentação do projeto, re-executem em uma nova base de dados o arquivo script.sql por etapas
 
 
-######Referências
+###### Referências
 
 1. https://www.devmedia.com.br/sql-max-min-avg-sum-e-count/41218
 1. https://docs.oracle.com/cloud/help/pt_BR/reportingcs_use/BILUG/GUID-4EE8C58D-391B-46A9-B0B3-9FA91B8159D1.htm#BILUG664
